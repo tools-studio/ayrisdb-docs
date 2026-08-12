@@ -37,3 +37,5 @@ AyrisDB gives Unity projects a SQLite database with an attribute-based ORM, auto
 **1.0.0.** Full release history is tracked in AyrisDB's own repositories rather than duplicated here.
 
 ## [Getting Started](docs/getting-started.md) &nbsp;&nbsp; [Installation](docs/installation.md) &nbsp;&nbsp; [Features](docs/features/) &nbsp;&nbsp; [Support](SUPPORT)
+
+## [Documentation](https://github.com/tools-studio) &nbsp;&nbsp; [Support](mailto:support.toolsstudio@gmail.com) &nbsp;&nbsp; [Community](https://discord.gg/VrbxQ9vnrT) &nbsp;&nbsp; [Bug Reports](https://discord.gg/XPMGcdnpmn) &nbsp;&nbsp; [Feature Requests](https://discord.gg/Ge99xqt5qr)
