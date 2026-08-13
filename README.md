@@ -8,6 +8,20 @@ AyrisDB Free — public Unity Asset Store release.
 
 This repository is AyrisDB's documentation source — the pages themselves, not the product. If you're looking for the product, it's on the Unity Asset Store; if you're reading this on GitHub directly rather than a published site, everything below lives under `docs/`.
 
+<p>
+  <a href="docs/getting-started.md"><img src="https://img.shields.io/badge/Getting%20Started-lightgrey?style=for-the-badge" alt="Getting Started"></a>
+  <a href="docs/installation.md"><img src="https://img.shields.io/badge/Installation-lightgrey?style=for-the-badge" alt="Installation"></a>
+  <a href="docs/features/"><img src="https://img.shields.io/badge/Features-lightgrey?style=for-the-badge" alt="Features"></a>
+  <a href="docs/api-reference.md"><img src="https://img.shields.io/badge/API-lightgrey?style=for-the-badge" alt="API Reference"></a>
+  <a href="SUPPORT"><img src="https://img.shields.io/badge/Support-lightgrey?style=for-the-badge" alt="Support"></a>
+</p>
+
+<p>
+  <a href="https://discord.gg/VrbxQ9vnrT"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord"></a>
+  <a href="https://discord.gg/XPMGcdnpmn"><img src="https://img.shields.io/badge/Report%20Issue-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Report Issue"></a>
+  <a href="https://discord.gg/Ge99xqt5qr"><img src="https://img.shields.io/badge/Feature%20Request-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Feature Request"></a>
+</p>
+
 ## What AyrisDB does
 
 AyrisDB gives Unity projects a SQLite database with an attribute-based ORM, automatic Unity type storage, optional AES-256 encryption, and automatic IL2CPP safety, without writing platform-specific code.
@@ -35,7 +49,3 @@ AyrisDB gives Unity projects a SQLite database with an attribute-based ORM, auto
 ## Current release
 
 **1.0.0.** Full release history is tracked in AyrisDB's own repositories rather than duplicated here.
-
-## [Getting Started](docs/getting-started.md) &nbsp;&nbsp; [Installation](docs/installation.md) &nbsp;&nbsp; [Features](docs/features/) &nbsp;&nbsp; [Support](SUPPORT)
-
-## [Documentation](https://github.com/tools-studio) &nbsp;&nbsp; [Support](mailto:support.toolsstudio@gmail.com) &nbsp;&nbsp; [Community](https://discord.gg/VrbxQ9vnrT) &nbsp;&nbsp; [Bug Reports](https://discord.gg/XPMGcdnpmn) &nbsp;&nbsp; [Feature Requests](https://discord.gg/Ge99xqt5qr)
